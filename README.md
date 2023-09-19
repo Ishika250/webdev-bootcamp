@@ -11,6 +11,7 @@ UI Designer
 ##Education Experience
 
 -B.Tech from DSEU
+
 -Dayanand Model Sr.Sec School , Mandir Marg
 
 
