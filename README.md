@@ -1,5 +1,5 @@
-# webdev-bootcamp
-
-This is my initial commit
+# Resume
 
 Apprenticeship experience @Reskill's Cohort
+
+UI designer
