@@ -16,4 +16,6 @@ UI Designer
 
 
 ##Skills 
-- Python, HTML, CSS, Javascript
+- Python, Intermediate ML
+- HTML, CSS, Javascript
+  
