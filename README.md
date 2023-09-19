@@ -15,3 +15,5 @@ UI Designer
 -Dayanand Model Sr.Sec School , Mandir Marg
 
 
+##Skills 
+- Python, HTML, CSS, Javascript
